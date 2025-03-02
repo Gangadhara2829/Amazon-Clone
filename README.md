@@ -1,21 +1,15 @@
-#Amazon Clone
+Amazon Clone
 A fully responsive Amazon Clone built using HTML & CSS, designed to replicate the front-end UI of an e-commerce website.
 
-Features
+Features:
 Mobile-friendly and responsive design
 Well-structured and clean HTML & CSS
 Smooth navigation and organized product sections
 Pixel-perfect layout inspired by Amazon
 Installation & Usage
 Clone the repository:
-bash
-Copy
-Edit
 git clone https://github.com/your-username/Amazon-Clone.git
 Navigate to the project folder:
-bash
-Copy
-Edit
 cd Amazon-Clone
 Open index.html in your browser to view the project.
 Future Enhancements
