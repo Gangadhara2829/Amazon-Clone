@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/Amazon-Clone/index.html" }
+    { "source": "/", "destination": "/Amazon-Clone/index.html" },
+    { "source": "/(.*)", "destination": "/Amazon-Clone/$1" }
   ]
 }
