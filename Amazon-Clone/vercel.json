@@ -1,7 +1,5 @@
 {
-  "version": 2,
-  "public": true,
-  "builds": [
-    { "src": "Amazon-Clone/**/*", "use": "@vercel/static" }
+  "rewrites": [
+    { "source": "/", "destination": "/Amazon-Clone/index.html" }
   ]
 }
